@@ -104,11 +104,11 @@ All important developmental stages should be documented, including:
 
 ### English Research Proposal
 
-[Read the English research proposal](docs/Research-Proposal-English.pdf)
+[Read the English research proposal](artificial_emotion_development_experiment_public.pdf)
 
 ### Arabic Research Proposal
 
-[Read the Arabic research proposal](docs/Research-Proposal-Arabic.pdf)
+[Read the Arabic research proposal](artificial_emotion_development_experiment_ar.pdf)
 
 ## Status
 
